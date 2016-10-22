@@ -8,7 +8,7 @@ var botConnectorOptions = {
     //appSecret: process.env.BOTFRAMEWORK_APPSECRET
 
     appId: "4eda9b81-7e42-4a8d-a886-6020c84998f9",
-    appSecret: "3NDKE9hciCzEBEc9DNqkf9S" 
+    appPassword: "3NDKE9hciCzEBEc9DNqkf9S" 
 };
 
 // Create bot
